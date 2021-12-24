@@ -77,6 +77,11 @@ header {
     padding: 10px;
 }
 
+.maintitle a{
+    font-family: 'Playfair Display SC', serif;
+}
+
+
 .main-column {
     display: flex;
     flex-wrap: nowrap;
@@ -84,7 +89,7 @@ header {
 
     /* properti lainnya */
     width: 750px;
-    height: 650px;
+    height: 680px;
     padding: 20px;
     margin: 0 auto;
     border: 2px solid black;
@@ -95,6 +100,7 @@ header {
 }
 
 .main-column a {
+    font-family: 'Playfair Display SC', serif;
     text-align: center;
     font-size: 40px;
 }
@@ -167,7 +173,7 @@ input#submit-btn {
 
     /* properti lainnya */
     width: 750px;
-    height: 870px;
+    height: 900px;
     padding: 20px;
     margin: 0 auto;
     margin-top: 50px;
